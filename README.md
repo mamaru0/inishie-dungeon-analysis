@@ -15,7 +15,7 @@
 - [ ] itemlist
 
 # 課題
-- itemlistのpriceを5倍する
+- [ ] itemlistのpriceを5倍する
 
 
 # リンク
