@@ -12,6 +12,10 @@
 # 進捗
 - dataの内、完成したものにはチェックを付けています。
 - [x] skilldata
+- [ ] itemlist
+
+# 課題
+- itemlistのpriceを5倍する
 
 
 # リンク
