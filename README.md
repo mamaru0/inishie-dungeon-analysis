@@ -12,3 +12,8 @@
 # 進捗
 - dataの内、完成したものにはチェックを付けています。
 - [x] skilldata
+
+
+# リンク
+- Youtube チャンネル
+- [link](https://www.youtube.com/channel/UCYqkSJ9fj8pZFYECnuuU1lA)
