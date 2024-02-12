@@ -15,4 +15,4 @@
 
 
 # リンク
-Youtube チャンネル -> [link](https://www.youtube.com/channel/UCYqkSJ9fj8pZFYECnuuU1lA)
+Youtube チャンネル -> [https://www.youtube.com/channel/UCYqkSJ9fj8pZFYECnuuU1lA](https://www.youtube.com/channel/UCYqkSJ9fj8pZFYECnuuU1lA)
