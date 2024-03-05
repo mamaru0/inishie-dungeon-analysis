@@ -9,15 +9,3 @@
 > [!Warning]
 > コードや攻略サイトからデータを復元している為、実際のデータとは異なる可能性があります。
 > また、一部のデータには、仮データを設定しています。
-
-
-# 進捗
-- dataの内、完成したもの
-- [x] skilldata
-
-# 課題
-- [ ] as3をc#に書き換える
-
-
-# リンク
-Youtube チャンネル -> [https://www.youtube.com/channel/UCYqkSJ9fj8pZFYECnuuU1lA](https://www.youtube.com/channel/UCYqkSJ9fj8pZFYECnuuU1lA)
