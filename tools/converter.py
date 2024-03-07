@@ -73,6 +73,7 @@ def convert(filename:str) -> None:
     conv_types[-2] = 0
     conv_types[-1] = 0
 
+    # 変換する。
     for i in range(len(arr)):
         a = arr[i]
         if conv_types[i] == 2:
