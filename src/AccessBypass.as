@@ -280,6 +280,10 @@ package
          this.setDataDict("charaData",charaData);
       }
       
+      /* ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+       * getPartyData: パーティ情報を返します。
+       * ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+       */
       public function getPartyData() : String
       {
          var p:PartyData = this.Main.playData.myData.party_data;
